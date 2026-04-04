@@ -1,6 +1,6 @@
 Hello, **before you start to clarify that I am not the author of this mod**. I just share the update I made.
 This mod will be updated as soon as a new gamebuild is released. 
-This version is available from *GameBuild* **1604** to **3570**. 
+This version is available from *GameBuild* **1604** to **3751**. 
 
 ⚠️ During my tests I only use OpenCameraV as mods so if you have problems making OpenCameraV work with other mods do not hesitate to ask for help directly on the FiveM topic [OpenCameraV](https://forum.cfx.re/t/opencamerav-gamebuilds-1604-to-3258/5146852)
 
@@ -21,6 +21,7 @@ This version is available from *GameBuild* **1604** to **3570**.
 - ✅ 3258 (confirmed)
 - ✅ 3407 (confirmed)
 - ✅ 3570 (confirmed)
+- ✅ 3751 (confirmed)
 
 
 ## How to:

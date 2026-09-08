@@ -22,6 +22,7 @@ This version is available from *GameBuild* **1604** to **3751**.
 - ✅ 3407 (confirmed)
 - ✅ 3570 (confirmed)
 - ✅ 3751 (confirmed)
+- ✅ 3889
 
 
 ## How to:
